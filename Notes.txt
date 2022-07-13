@@ -1,0 +1,2 @@
+Program crashes if no internet connection
+Jitter based on time not last 10 pings
